@@ -1,4 +1,5 @@
-MY REASON FOR WORKING ON THIS FOOD DELIVERY APP PROJECT
+## MY REASON FOR WORKING ON THIS FOOD DELIVERY APP PROJECT
+
 I have mostly visited food restaurants and eateries especially in Lagos Nigeria, and noticed how people flock in to buy food, 
 most of who buy and take away rather than eating in the restaurant. Again, the customers are often much, coming in their numbers but the attendants are always few, 
 causing these long waiting time, queues and overall service dissatisfaction. So, I thought developing a food delivery app will reduce these misdemeanors. 
